@@ -1,1 +1,1 @@
-Learning about emacs in a safe space
+learning all about vi in a safe space.
